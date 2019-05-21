@@ -16,3 +16,6 @@ Reardon, S. F., Matthews, S. A., O’Sullivan, D., Lee, B. A., Firebaugh, G., Fa
 
 
 Data available on https://nhgis.org/
+
+Note on arguments: 
+The results are produced without any of the smoothing options. 
