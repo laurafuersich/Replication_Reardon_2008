@@ -1,9 +1,9 @@
-# Replication_OReardon_2008
+# Replication_Reardon_2008
 Laura Fursich, IAS Linköping University
 laura.fursich@liu.se
 
 
-R-Scripts for replication of O'Reardon et al. 2008, Figure 5 (p. 501)
+R-Scripts for replication of Reardon et al. 2008, Figure 5 (p. 501)
 with seg package
 
 Package:
